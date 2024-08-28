@@ -37,7 +37,7 @@ global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
 global.Thumb = fs.readFileSync("./Assets/pic7.jpg");
 global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg");
 global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
-global.OwnerNumber = [""] //Ignore,Unused
+global.OwnerNumber = ["2348137663875"] //like 2348137663875
 
 //
 global.ntilinkytvid = []
@@ -64,7 +64,7 @@ global.ntilink = []
 global.mess = {
     jobdone: 'Here you go...',
     useradmin: 'Only group Admin can use the command 😂 ',
-    botadmin: 'Make me Admin first 😌📍.',
+    botadmin: 'Make me Admin first werey 😌📍.',
     botowner: 'Only my *Owner* can use this command!',
     grouponly: 'This command is only made for *Groups*',
     privateonly: 'This command is only made for *Private Chat*',
