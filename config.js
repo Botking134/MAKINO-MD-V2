@@ -14,7 +14,7 @@ global.antitags = false;
 global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = true;                //make true to enable auto recording
 global.groupevent = true;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //make true to view statuses 
+global.statusseen = true;                 //make true to view statuses 
 global.ANTI_BOT = false;
 global.PM_BLOCKER = false;
 global.CHATBOT = false;
@@ -37,7 +37,7 @@ global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
 global.Thumb = fs.readFileSync("./Assets/pic7.jpg");
 global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg");
 global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
-global.OwnerNumber = [""] //Ignore,Unused
+global.OwnerNumber = ["2348137663875"] //like 2348137663875
 
 //
 global.ntilinkytvid = []
